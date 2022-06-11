@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CheckersNotChess</string>
+    <string name="reset_button">Reset</string>
+    <string name="listen_button">CheckersNotChess</string>
+    <string name="connect_button">Reset</string>
+</resources>
